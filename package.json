@@ -1,0 +1,12 @@
+{
+	"name": "wp-plugin-release-tools",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/2ndkauboy/wp-plugin-release-tools.git"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-wp-readme-to-markdown": "~0.8.0"
+	}
+}
